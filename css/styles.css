@@ -1,0 +1,23 @@
+.apt {
+width: 40%;
+float:left;
+padding: 10px;
+font-family: fantasy;
+margin-left: 15px;
+}
+
+img {
+  width: 300px;
+  height: auto;
+  border-radius: 15px;
+  margin-left: 30px;
+}
+body {
+  background-color: grey;
+}
+h2 {
+  font-family: cursive;
+  text-decoration: underline;
+  font-size: 40px;
+  text-align: center;
+}
